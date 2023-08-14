@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Frame 1  Personal Info_firstName</name>
+   <tag></tag>
+   <elementGuidId>0f0b9e87-3adf-419a-8ef6-b206e51cf119</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;firstName&quot;)[count(. | //input[@type = 'text' and @id = 'firstName' and @ref_element = 'Object Repository/LearnKS/Page_Home/iframe_LOGIN_personalInfoFrame']) = count(//input[@type = 'text' and @id = 'firstName' and @ref_element = 'Object Repository/LearnKS/Page_Home/iframe_LOGIN_personalInfoFrame'])]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='firstName']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#firstName</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>94842517-9b29-474a-8b25-3ab8216205cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>494fbfc2-66a3-49a2-a95d-f38f4a4d55a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>firstName</value>
+      <webElementGuid>ef200203-d830-48c9-832a-f72c0bf91f4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;firstName&quot;)</value>
+      <webElementGuid>ccf25c92-47ca-40de-840a-c614dff9a191</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/LearnKS/Page_Home/iframe_LOGIN_personalInfoFrame</value>
+      <webElementGuid>be11f78c-92b2-4a14-bb46-b30fef2e9563</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='firstName']</value>
+      <webElementGuid>51dac62d-932b-413f-ae04-1d991b199439</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>1d1dc671-1ecd-4e4b-a094-6eb7d1fbbc4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @id = 'firstName']</value>
+      <webElementGuid>c6e02032-4c16-4e3a-b527-21411602731e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

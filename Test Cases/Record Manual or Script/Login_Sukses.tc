@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login_Sukses</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cdadf342-b903-41e4-b4b3-b936d9969dc0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>155d98aa-fec9-4af6-ad00-6d6c7dcd1e70</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9d1302e7-7541-4974-8fb1-8da2641e90a1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'my@fake.com'</defaultValue>
+      <description></description>
+      <id>155d98aa-fec9-4af6-ad00-6d6c7dcd1e70</id>
+      <masked>false</masked>
+      <name>emailAddress</name>
+   </variable>
+   <variable>
+      <defaultValue>'iFGeFYmXIrUhQZHvW7P22w=='</defaultValue>
+      <description></description>
+      <id>9d1302e7-7541-4974-8fb1-8da2641e90a1</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

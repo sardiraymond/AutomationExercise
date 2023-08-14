@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Frame 1 Personal Info_lastName</name>
+   <tag></tag>
+   <elementGuidId>5b170544-027c-4153-a56d-21fa805aee09</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>lastName</value>
+      <webElementGuid>cfb1ec65-13ae-4ec8-b53b-8bb919a7d85f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>689ddc94-cf06-46f7-ab72-36b327f2aa4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;lastName&quot;)</value>
+      <webElementGuid>e1d80172-b3c6-40fe-a3f9-2eea37be785b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>49fe32eb-9116-4bfe-9996-5f1c18209636</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/LearnKS/Page_Home/iframe_LOGIN_personalInfoFrame</value>
+      <webElementGuid>a24c243c-f7f8-4bb0-8729-d0de2d5d5398</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

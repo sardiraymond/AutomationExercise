@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Frame 2  Address_addressLine2</name>
+   <tag></tag>
+   <elementGuidId>da00db18-e2e3-424f-ac52-a5be4a1dfa65</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>c4fcbd45-2dea-4ae9-afcf-f7fe68f5b765</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>addressLine2</value>
+      <webElementGuid>da341905-9865-47c0-a60c-00a0e2a5a9bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>75db21f7-ec7f-4194-8f45-6bae780401f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;addressLine2&quot;)</value>
+      <webElementGuid>24cd4f1e-21bb-4775-aede-faee3720f04e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/LearnKS/Page_Home/iframe_LOGIN_addressInfoFrame</value>
+      <webElementGuid>6847809d-a5f7-4866-b3b4-44536e0da318</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

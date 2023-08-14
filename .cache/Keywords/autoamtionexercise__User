@@ -1,0 +1,48 @@
+{
+  "keywordFileContentHash": "7CA5A5FA125E0EBC62059AA1EF90C57F",
+  "keywordClasses": [
+    {
+      "name": "autoamtionexercise.User",
+      "keywordMethods": [
+        {
+          "name": "Login",
+          "parameters": [
+            {
+              "name": "emailAddress",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "password",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": "/**\n\t * login to automationexercise\n\t * @param user email adress for login\n\t * * @param pwd password for login\n\t */"
+        },
+        {
+          "name": "Logout",
+          "parameters": [],
+          "javadoc": "/**\n\t * logout automationexerccise\n\t */"
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

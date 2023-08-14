@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Variables_TC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6446b586-9375-483b-a938-97658c28d354</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>34a6589c-8a84-4256-ad8e-9b97c026e6b2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'kosong'</defaultValue>
+      <description></description>
+      <id>34a6589c-8a84-4256-ad8e-9b97c026e6b2</id>
+      <masked>false</masked>
+      <name>testcaseAlert</name>
+   </variable>
+</TestCaseEntity>
